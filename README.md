@@ -46,11 +46,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-4. Launch Streamlit app:
-```bash
-streamlit run streamlit_app.py
-```
-5. Upload a test CSV and view predictions + SHAP explanation
 
 ---
 Made with ⚡ by an AIML B.Tech student for submission glory
