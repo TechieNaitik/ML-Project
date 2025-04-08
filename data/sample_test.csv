@@ -1,0 +1,3 @@
+Age,Occupation,Annual_Income,Monthly_Inhand_Salary,Num_Bank_Accounts,Num_Credit_Card,Interest_Rate,Num_of_Loan,Delay_from_due_date,Num_of_Delayed_Payment,Changed_Credit_Limit,Num_Credit_Inquiries,Credit_Mix,Outstanding_Debt,Credit_Utilization_Ratio,Credit_History_Age,Total_EMI_per_month,Amount_invested_monthly,Payment_Behaviour,Monthly_Balance
+30,Engineer,800000,65000,3,2,10,1,5,2,5000,1,Good,200000,0.3,5 Years and 2 Months,5000,2000,High_spent_Small_value_payments,15000
+45,Doctor,1200000,100000,5,4,12,3,2,1,10000,2,Standard,300000,0.5,10 Years and 6 Months,12000,5000,Low_spent_Large_value_payments,20000
